@@ -425,3 +425,5 @@ Ik dit bespreken in de scriptie.
 * Node MQTT services ontwikkelt, deze services ontvangen de sensor samples en plaatsen deze in de databank
 * Bug opgelost in Arduino code, waardoor de laatste ADC poort niet correct werd uitgelezen.
 * Nogmaals poging gedaan om de WebRTC via de U4VL libraries te doen werken, met weer geen resultaten.
+
+<!--The End-->
