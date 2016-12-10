@@ -426,4 +426,12 @@ Ik dit bespreken in de scriptie.
 * Bug opgelost in Arduino code, waardoor de laatste ADC poort niet correct werd uitgelezen.
 * Nogmaals poging gedaan om de WebRTC via de U4VL libraries te doen werken, met weer geen resultaten.
 
+#### Verwachte resultaten
+Onze verwachte resultaten zijn:
+* De contactpersoon/eigenaar van het evenement gaat de bezoekers registreren, om hun zo toegang te verlenen. 
+* Als je dan toekomt met je auto, is er een sensor voorzien die gaat detecteren wanneer deze passeerd. Enkele seconden later neemt de camera een foto van de nummerplaat. Deze foto gaat dan verwerkt worden met de openALPR library tot data, en word dan vergeleken met de database. Als blijkt dat deze persoon toegang heeft, dan zal de slagboom open gaan, zoniet blijft deze dicht.
+* Het display dient om de gegevens die bij de nummerplaat horen weer te geven.
+* Er is ook nog een failsafe (toetsenbord) voorzien, zodat de persoon de nummerrplaat handmatig kan invoeren als de camera niet zou werken. 
+* Als de nummerplaat geregistreerd is als bezoeker, gaat de contactpersoon verwittigd worden via de website.
+
 <!--The End-->
