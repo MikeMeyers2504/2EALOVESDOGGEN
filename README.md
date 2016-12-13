@@ -1,8 +1,8 @@
-#Artesis-Plantijn Hogeschool Antwerpen BAP 2015-2016
-*Stage bij <!--Stage--> Agentschap Wegen & Verkeer<!--Stage End-->
-<!--Voornaam-->* Student: Michael<!--Voornaam End--> <!--Naam-->Marivoet<!--Naam End-->
+##Artesis-Plantijn Hogeschool Antwerpen BAP 2015-2016
+* Stage bij <!--Stage--> Agentschap Wegen & Verkeer<!--Stage End-->
+* Student: <!--Voornaam-->Michael<!--Voornaam End--><!--Naam-->Marivoet<!--Naam End-->
 * Externe stagementor: Rik Haekens
-<!--Promotor-->* Interne stagepromotor: Luyts Maarten<!--Promotor End-->
+* Interne stagepromotor: <!--Promotor-->Luyts Maarten<!--Promotor End-->
 
 ##Remote Control/Support Application using Raspberry Pi and Open Source Technologies
 ###Pitch
