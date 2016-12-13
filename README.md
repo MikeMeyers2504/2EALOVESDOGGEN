@@ -1,6 +1,6 @@
 ##Artesis-Plantijn Hogeschool Antwerpen BAP 2015-2016
 * Stage bij <!--Stage-->Agentschap Wegen & Verkeer<!--Stage End-->
-* Student: <!--Voornaam-->Michael<!--Voornaam End--><!--Naam-->Marivoet<!--Naam End-->
+* Student: <!--Voornaam-->Michael<!--Voornaam End--><!--Naam--> Marivoet<!--Naam End-->
 * Externe stagementor: Rik Haekens
 * Interne stagepromotor: <!--Promotor-->Luyts Maarten<!--Promotor End-->
 
